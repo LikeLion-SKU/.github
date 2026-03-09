@@ -1,94 +1,102 @@
-### Tag Name: Description 👋
+<div align="center">
 
-git Commit Convention
+# 🦁 멋쟁이사자처럼 서경대학교
 
-🎉Start: Start New Project
+**LIKELION @ Seokyeong University (SKU)**
 
-✨Feat: 새로운 기능을 추가
+[![Website](https://img.shields.io/badge/Website-skulikelion.site-orange?style=flat-square&logo=safari)](https://skulikelion.site)
+[![Instagram](https://img.shields.io/badge/Instagram-@likelion__sku-E1306C?style=flat-square&logo=instagram)](https://www.instagram.com/likelion_skuniv)
 
-🐛Fix: 버그 수정
+> _"내 아이디어를 내 손으로 실현한다"_
 
-🎨Design: CSS 등 사용자 UI 디자인 변경
+</div>
 
-🚨BREAKING CHANGE: 커다란 API 변경의 경우
+---
 
-🚑HOTFIX: 급하게 치명적인 버그를 고쳐야하는 경우
+## 📌 소개
 
-♻️Refactor: 코드 리팩토링
+**멋쟁이사자처럼 서경대학교(LIKELION SKU)** 는 서경대학교 소속의 IT 창업 동아리입니다.
+전공·비전공 관계없이 누구나 웹 개발을 배우고, 자신의 아이디어를 직접 서비스로 구현하는 것을 목표로 합니다.
 
-⚙️Settings: Changing configuration files
+멋쟁이사자처럼은 국내외 100개 이상의 대학이 참여하는 **국내 최대 규모 IT 창업 연합 동아리**이며,
+서경대 멋쟁이사자처럼은 **2023년부터** 활동을 시작했습니다.
 
-🗃️Comment: 필요한 주석 추가 및 변경
+---
 
-📝Docs: 문서 수정
+## 🎯 활동 목적
 
-💻Test: 테스트 코드, 리펙토링 테스트 코드 추가, Production Code(실제로 사용하는 코드) 변경 없음
+- 웹 개발(프론트엔드 / 백엔드) 기초 역량 함양
+- 아이디어를 실제 서비스로 구현하는 경험 제공
+- 해커톤, 프로젝트 등 실전 중심의 개발 문화 형성
+- 전공·비전공자 모두를 위한 열린 IT 커뮤니티 운영
 
-🔧Chore: 빌드 업무 수정, 패키지 매니저 수정, 패키지 관리자 구성 등 업데이트, Production Code 변경 없음
+---
 
-🚀Deploy: Deploying stuff
+## 🛠 활동 내용
 
-🔄️Rename: 파일 혹은 폴더명을 수정하거나 옮기는 작업만인 경우
+### 📚 정기 세션 (학기 중)
+- **기획/디자인**: Figma, Framer, Protopie
+- **프론트엔드**: HTML, CSS, JavaScript, React
+- **백엔드**: Java, Spring Boot, MySQL, AWS, Docker
+- 매주 정기적으로 세션 진행, 기초부터 심화까지 단계별 교육
 
-🪚Remove: 파일을 삭제하는 작업만 수행한 경우
+### 🏆 해커톤 & 프로젝트
+- **교내 해커톤**: 아이디어 도출부터 결과물 구현까지
+- **전국 연합 해커톤**: 전국 멋쟁이사자처럼 대학과 연합해 진행
+- **아이디어톤 / 데모데이**: 기획·디자인·개발을 통합한 실전 프로젝트
 
-💡 PR Convention
-| 아이콘 | 코드                       | 설명                                      |
-| ------ | -------------------------- | ----------------------------------------- |
-| 🎨    | :art                       | Improve structure / format of the code.    |
-| 🎉    | :tada                      | Begin a project.                           |
-| ⚡️    | :zap                       | Improve performance.                       |
-| 🔥    | :fire                      | Remove code or files.                      |
-| 🐛    | :bug                       | Fix a bug.                                 |
-| 🚑️    | :ambulance                 | Critical hotfix.                           |
-| ✨    | :sparkles                  | Introduce new features.                    |
-| 📝    | :memo                      | Add or update documentation.               |
-| 🚀    | :rocket                    | Deploy stuff.                              |
-| 💄    | :lipstick                  | Add or update the UI and style files.      |
-| ✅    | :white_check_mark          | Add, update, or pass tests.                |
-| 🔒️    | :lock                      | Fix security or privacy issues.            |
-| 🔐    | :closed_lock_with_key      | Add or update secrets.                     |
-| 🔖    | :bookmark                  | Release / Version tags.                    |
-| 🚨    | :rotating_light            | Fix compiler / linter warnings.            |
-| 🚧    | :construction              | Work in progress.                          |
-| 💚    | :green_heart               | Fix CI Build.                              |
-| ⬇️    | :arrow_down                | Downgrade dependencies.                    |
-| ⬆️    | :arrow_up                  | Upgrade dependencies.                      |
-| 📌    | :pushpin                   | Pin dependencies to specific versions.     |
-| 📈    | :chart_with_upwards_trend  | Add or update analytics or track code.     |
-| ♻️    | :recycle                   | Refactor code.                             |
-| ➕    | :heavy_plus_sign           | Add a dependency.                          |
-| ➖    | :heavy_minus_sign          | Remove a dependency.                       |
-| 🔧    | :wrench                    | Add or update configuration files.         |
-| 🔨    | :hammer                    | Add or update development scripts.         |
-| ✏️    | :pencil2                   | Fix typos.                                 |
-| 💩    | :poop                      | Write bad code that needs to be improved.  |
-| ⏪️    | :rewind                    | Revert changes.                            |
-| 🔀    | :twisted_rightwards_arrows | Merge branches.                            |
-| 📦️    | :package                   | Add or update compiled files or packages.  |
-| 👽️    | :alien                     | Update code due to external API changes.   |
-| 🚚    | :truck                     | Move or rename resources.                  |
-| 📄    | :page_facing_up            | Add or update license.                     |
-| 💥    | :boom                      | Introduce breaking changes.                |
-| 🍱    | :bento                     | Add or update assets.                      |
-| ♿️    | :wheelchair                | Improve accessibility.                     |
-| 💡    | :bulb                      | Add or update comments in source code.     |
-| 💬    | :speech_balloon            | Add or update text and literals.           |
-| 🗃️    | :card_file_box             | Perform database related changes.          |
-| 🔊    | :loud_sound                | Add or update logs.                        |
-| 🔇    | :mute                      | Remove logs.                               |
-| 👥    | :busts_in_silhouette       | Add or update contributor(s).              |
-| 🚸    | :children_crossing         | Improve user experience / usability.       |
-| 🏗️    | :building_construction     | Make architectural changes.                |
-| 📱    | :iphone                    | Work on responsive design.                 |
-| 🥚    | :egg                       | Add or update an easter egg.               |
-| 🙈    | :see_no_evil               | Add or update a .gitignore file.           |
-| 📸    | :camera_flash              | Add or update snapshots.                   |
-| ⚗️    | :alembic                   | Perform experiments.                       |
-| 🔍️    | :mag                       | Improve SEO.                               |
-| 🏷️    | :label                     | Add or update types.                       |
-| 🌱    | :seedling                  | Add or update seed files.                  |
-| 🚩    | :triangular_flag_on_post   | Add, update, or remove feature flags.      |
-| 🥅    | :goal_net                  | Catch errors.                              |
-| 💫    | :dizzy                     | Add or update animations and transitions.  |
-| 🗑️    | :wastebasket               | Deprecate code that needs to be cleaned up.|
+### 🤝 네트워킹 & 성장
+- 연사 초청 강연
+- 타 대학 멋사 지부와의 교류 행사
+- 선후배 간 멘토링
+
+---
+
+## 🗂 트랙 구성
+
+| 트랙 | 내용 |
+|------|------|
+| 🎨 기획·디자인 | UX/UI 기획, 와이어프레임, 디자인 실습 |
+| 🖥 프론트엔드 | JavaScript / React 기반 웹 UI 개발 |
+| ⚙️ 백엔드 | Spring Boot / MySQL / AWS / Docker 기반 서버 개발 |
+
+---
+
+## 📅 연간 활동 타임라인
+
+```
+3월       OT 및 부원 모집
+3월~6월   1학기 정기 세션 (기초 교육)
+여름방학   해커톤 / 연합 행사
+9월~11월  2학기 정기 세션 (심화 프로젝트)
+11월~12월 데모데이 / 결과 발표
+```
+
+---
+
+## 🚀 지원 안내
+
+- **지원 대상**: 서경대학교 재학생 (전공 무관)
+- **지원 시기**: 매년 3월 초 (공식 SNS 공지)
+- **지원 방법**: 공식 홈페이지 또는 인스타그램 공지 확인
+
+> 개발 경험이 없어도 괜찮아요! 열정만 있다면 누구나 환영합니다. 🦁
+
+---
+
+## 🔗 링크
+
+| 링크 | URL |
+|------|-----|
+| 공식 홈페이지 | [skulikelion.site](https://skulikelion.site) |
+| 멋쟁이사자처럼 중앙 | [likelion.net](https://likelion.net) |
+
+---
+
+<div align="center">
+
+**멋쟁이사자처럼 서경대학교** | LIKELION @ SKU
+
+Made with 🦁 by LIKELION SKU
+
+</div>
