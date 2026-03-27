@@ -4,7 +4,7 @@
 
 **LIKELION @ Seokyeong University (SKU)**
 
-[![Website](https://img.shields.io/badge/Website-skulikelion.site-orange?style=flat-square&logo=safari)](https://skulikelion.site)
+[![Website](https://img.shields.io/badge/Website-skulikelion.site-orange?style=flat-square&logo=safari)](https://skulikelion.com)
 [![Instagram](https://img.shields.io/badge/Instagram-@likelion__sku-E1306C?style=flat-square&logo=instagram)](https://www.instagram.com/likelion_skuniv)
 
 > _"내 아이디어를 내 손으로 실현한다"_
